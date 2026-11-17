@@ -1,0 +1,5 @@
+-- migrations/20261116_170431_create_refresh_tokens.sql
+-- Author: ZorialCart
+-- Date: Mon, Nov 16, 2026  5:04:31 PM
+--
+-- Write your SQL below
